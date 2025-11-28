@@ -28,4 +28,5 @@ MetaBridge aims to evolve into a secure, decentralized, multi-chain asset bridge
 - Expand to Layer-2 networks and ZK-bridging frameworks.
 
 ---
-
+contract address: 0xB3a0f4C45f79f9b627c1301cE9119B8200792ab5
+"C:\Users\pc\Pictures\Screenshots\Screenshot 2025-11-28 103446.png"
